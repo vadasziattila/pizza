@@ -6,7 +6,7 @@
             case "adatlap":
                 $content = "includes/adatlap.php";
                 break;
-            case "pizzak":
+            case "pizza":
                 $content = "includes/pizza.php";
                 break;
             case "rnd":
